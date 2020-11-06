@@ -1,0 +1,47 @@
+
+ion-avatar{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+h5{
+    text-align: center;
+    color: lightseagreen;
+}
+.sub{
+    text-align: center;
+    display: block; 
+}
+.scores{
+    text-align: center;
+    color: lightseagreen;
+    margin-left: 12%;;
+}
+ul{
+    display: inline;
+    margin: 5px;
+    padding: 5px;
+    list-style-type: none;
+}
+li{
+    float: left;
+    margin: 20px;
+}
+p{
+    color: lightslategray;
+}
+.container{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.image-layout div{
+    display: inline-block;
+    width: 100%;
+}
+.img{
+    width: 30.5%;
+    height: 70px;
+    text-align: center;
+}
